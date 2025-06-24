@@ -1,5 +1,5 @@
-# AI_wine_analizator
-Can predict a wine's information through data.
- 
- ## Important:
- ##### To make it work's, we need to add the "wine_dataset.csv" from https://www.kaggle.com/dell4010/wine-dataset and down load it from your computer, and when the program starts, you need to select the wine_dataset.csv to the program work correctly
+#Analisador de Vinhos com IA
+Prevê as informações de um vinho através de dados.
+
+## Importante:
+#### Para que o programa funcione, é preciso baixar o arquivo "wine_dataset.csv" do seguinte link: https://www.kaggle.com/dell4010/wine-dataset. Ao iniciar o programa, você deverá selecionar o arquivo "wine_dataset.csv" para que ele opere corretamente.
